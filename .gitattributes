@@ -1,0 +1,8 @@
+*.png filter=lfs diff=lfs merge=lfs -text lockable
+*.vi filter=lfs diff=lfs merge=lfs -text lockable
+*.vit filter=lfs diff=lfs merge=lfs -text lockable
+*.ctl filter=lfs diff=lfs merge=lfs -text lockable
+*.ctt filter=lfs diff=lfs merge=lfs -text lockable
+*.lvproj filter=lfs diff=lfs merge=lfs -text lockable
+*.lvclass filter=lfs diff=lfs merge=lfs -text lockable
+*.lvlib filter=lfs diff=lfs merge=lfs -text lockable
